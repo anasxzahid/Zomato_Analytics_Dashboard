@@ -31,8 +31,6 @@ This project uses Zomato data to explore trends within the restaurant market—s
 - 🗺️ **Geographic map** visualization of restaurants  
 - 📉 A clear **visual representation of layoffs** and company changes over time  
 
-*(💡 Tip: You can add screenshots of the dashboard here for better presentation.)*
-
 ---
 
 ## 🚀 Getting Started
