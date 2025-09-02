@@ -1,5 +1,5 @@
 ### Simple UI
-<img src='https://github.com/anasxzahid/Face_Recognition_Attendance_System/blob/main/Project%20Snap/1.png'>
+<img src='https://github.com/anasxzahid/Zomato_Analytics_Dashboard/blob/main/Zomato%20Dashboard%20Screenshot.png'>
 
 # 🍽️ Zomato Analytics Dashboard
 
