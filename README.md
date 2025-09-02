@@ -1,3 +1,6 @@
+### Simple UI
+<img src='https://github.com/anasxzahid/Face_Recognition_Attendance_System/blob/main/Project%20Snap/1.png'>
+
 # 🍽️ Zomato Analytics Dashboard
 
 A data analysis and visualization project centered around **Zomato restaurant data**, created using **Power BI**.  
